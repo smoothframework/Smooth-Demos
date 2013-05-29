@@ -1,0 +1,23 @@
+Smooth Changelog
+
+	Version 1.0.4 beta
+
+		- Added new method of configuring the app
+		- Added server.js file for testing the sample websocket support	
+		- Added Travis-CI file to the package
+		- Added Install checker for developer's ease
+		- Removed previous database connection file
+		- Added SQLite and PgSQL beta support
+		- Added Kernel file
+		- Added Cache library and fixed the related issues
+		- Added Speech library for Text to speech supporting most of the popular languages(Using Google Translator)
+		- Added Test files for PHPUnit and Phactory
+		- Added REST Client
+		- Added WebSocket support through Socket.io, Elephant.io and Node.js
+		- Fixed issue #7 Config files problem
+		- Fixed issue #6 Core file loading issue		
+		- Fixed issue #5 loading the form and related bugs
+		- Fixed issue #4 WEBPATH detection as invalid directory
+		- Fixed issue #3 loader file usage to detect the controller
+		- Fixed issue #2 .htaccess file missed character
+		- Fixed issue #1 field input
