@@ -12,8 +12,8 @@
 					
 					'host' => 'localhost',
 					'username' => 'root',
-					'password' => 'ciprop1',
-					'database' => 'blog',
+					'password' => '',
+					'database' => 'test',
 					'db_col' => 'utf8_general_ci',
 					'charset' => 'utf8',
 					'prefix' => '',
